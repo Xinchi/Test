@@ -35,17 +35,17 @@
 		43BEF25C154AD905006A26D2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		43BEF25E154AD905006A26D2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		43BEF260154AD905006A26D2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		43BEF264154AD905006A26D2 /* TestRepositoryProject-Info.plist */ = {isa = PBXFileReference; path = "TestRepositoryProject-Info.plist"; sourceTree = "<group>"; };
+		43BEF264154AD905006A26D2 /* TestRepositoryProject-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestRepositoryProject-Info.plist"; sourceTree = "<group>"; };
 		43BEF266154AD905006A26D2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		43BEF268154AD905006A26D2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		43BEF26A154AD905006A26D2 /* TestRepositoryProject-Prefix.pch */ = {isa = PBXFileReference; path = "TestRepositoryProject-Prefix.pch"; sourceTree = "<group>"; };
-		43BEF26B154AD905006A26D2 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		43BEF26A154AD905006A26D2 /* TestRepositoryProject-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestRepositoryProject-Prefix.pch"; sourceTree = "<group>"; };
+		43BEF26B154AD905006A26D2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		43BEF26C154AD905006A26D2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		43BEF273154AD905006A26D2 /* TestRepositoryProjectTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestRepositoryProjectTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43BEF274154AD905006A26D2 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		43BEF27C154AD906006A26D2 /* TestRepositoryProjectTests-Info.plist */ = {isa = PBXFileReference; path = "TestRepositoryProjectTests-Info.plist"; sourceTree = "<group>"; };
+		43BEF27C154AD906006A26D2 /* TestRepositoryProjectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestRepositoryProjectTests-Info.plist"; sourceTree = "<group>"; };
 		43BEF27E154AD906006A26D2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		43BEF280154AD906006A26D2 /* TestRepositoryProjectTests.h */ = {isa = PBXFileReference; path = TestRepositoryProjectTests.h; sourceTree = "<group>"; };
+		43BEF280154AD906006A26D2 /* TestRepositoryProjectTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestRepositoryProjectTests.h; sourceTree = "<group>"; };
 		43BEF281154AD906006A26D2 /* TestRepositoryProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestRepositoryProjectTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
